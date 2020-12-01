@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Corona Tracker</string>
+    <string-array name="country_drop_down">
+        <item>India</item>
+        <item>Greece</item>
+        <item>Norway</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Denmark</item>
+        <item>France</item>
+        <item>Italy</item>
+    </string-array>
+</resources>
